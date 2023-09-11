@@ -1,0 +1,39 @@
+.card {
+    width: 300px;
+    justify-content: center;
+    margin: 10px;
+    border-top: 15px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+   
+    overflow: hidden;
+  }
+
+  .stories_image img {
+    width:100%;
+    
+  }
+
+  .cardBody {
+    margin-top: -10px;
+  }
+  .publishingData {
+    display: flex;
+    align-items: center;
+    margin-top: -30px;
+  }
+
+  .publishingData p {
+    padding:5px;
+  }
+
+  .author {
+    color:rgb(15, 199, 199);
+  }
+
+  .desc {
+    margin-top: -10px;
+    color:rgb(121, 119, 119);
+    overflow: hidden;
+    margin-bottom: 100px;
+  }

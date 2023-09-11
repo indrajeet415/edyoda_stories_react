@@ -1,0 +1,94 @@
+.App {
+  background-color: #f2f6ff;
+}
+.navbar {
+  border: 60px;
+  border: 1px solid rgb(252, 242, 242);
+  box-shadow: #121213;
+  background-color: white;
+  display: flex;
+}
+
+.logo-container {
+  margin-left: 100px;
+}
+.logo {
+  width: 130px;
+  margin-top: 0;
+
+  color: #0084ff;
+  font-size: 32px;
+  align-items: left;
+  margin-bottom: -15px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 35px;
+}
+.category {
+  display: flex;
+  margin-left: 200px;
+  justify-content: space-around;
+}
+.category img {
+  width: 40px;
+  height: 25px;
+  padding-top: 15px;
+}
+
+.post {
+  font-size: 25px;
+  margin-top: 25px;
+  padding-left: 300px;
+  padding-bottom: 25px;
+}
+
+.filter-icon {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.filter-icon img {
+  width: 20px;
+  padding-left: 300px;
+  padding-right: 5px;
+}
+
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 300px;
+}
+
+.filter-optons {
+  border: 1px solid #0077ff;
+  margin-right: 20px;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.filter p:hover {
+  background-color: #0077ff;
+}
+
+.tools {
+  width: 100%;
+}
+
+.card-container {
+  width: 60%;
+  padding-left: 230px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer div {
+  margin-top: 50px;
+  padding: 20px 100%;
+  background-color: #01254e;
+}
